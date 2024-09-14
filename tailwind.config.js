@@ -7,6 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'sans-serif'],
+      },
+      fontSize: {
+        '24px': '24px',
+      },
+      lineHeight: {
+        '29.05px': '29.05px',
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
