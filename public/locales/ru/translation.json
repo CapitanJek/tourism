@@ -3,10 +3,14 @@
   "profile": "Профиль",
   "wishlists": "Список желаемого",
   "support": "Поддержка",
-  "logout": "Выйти",
-  "Hello world": "Привет мир",
+  "log out": "Выйти",
   "Booking": "Бронирование",
-  "Tour list": "Список туров",
+  "TourList": "Список туров",
   "Account": "Аккаунт",
-  "About": "О нас"
+  "About": "О нас",
+  "Travel around Kyrgyzstan": "Путешествие по Кыргызстану",
+  "Explore Kyrgyzstan: Embark on an Unforgettable Journey Through Majestic Mountains, Rich Cultures, and Breathtaking Landscapes": "Исследуйте Кыргызстан: отправляйтесь в незабываемое путешествие по величественным горам, богатой культуре и захватывающим дух пейзажам",
+  "Where to go": "Куда пойти",
+  "Search places or activity": "Поиск мест или занятий",
+  "When": "Когда"
 }

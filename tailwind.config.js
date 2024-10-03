@@ -12,6 +12,8 @@ module.exports = {
       },
       fontSize: {
         '24px': '24px',
+        'display-large': ['56px', '70px'],
+
       },
       lineHeight: {
         '29.05px': '29.05px',

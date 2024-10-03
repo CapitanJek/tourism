@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -70,7 +72,7 @@ const Header = () => {
                     </li>
                 </ul>
                 <div className='ml-auto mr-20 flex items-center'>
-                    <div className='relative' ref={languageMenuRef}>
+                    <div className='relative absolute z-[1000]' ref={languageMenuRef}>
                         <Image
                             src='/language.svg'
                             alt='language'
@@ -97,7 +99,7 @@ const Header = () => {
                         )}
                     </div>
 
-                    <div className='relative' ref={menuRef}>
+                    <div className='relative absolute z-[1000]' ref={menuRef}>
                         <Image
                             src='/profile_button.svg'
                             alt='profile_button'

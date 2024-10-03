@@ -7,6 +7,12 @@ import Footer from "@/components/Footer/Footer";
 import "./(i18Next)/i18n";
 import LangSwitcher from "@/components/LangSwitcher/LangSwitcher";
 import { useTranslation } from "react-i18next";
+import Image from "next/image";
+import HomePage from "@/pages/HomePage";
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+
 
 const Home = () => {
     const { t } = useTranslation();
@@ -23,9 +29,7 @@ const Home = () => {
     return (
         <>
             <Header />
-            <Container>
-                {t("Hello world")}
-            </Container>
+            <HomePage/>
             <Footer />
         </>
     );

@@ -1,3 +1,4 @@
+
 'use client'
 
 import i18n from 'i18next';
@@ -27,6 +28,10 @@ i18n
                     "wishlists": "Wishlists",
                     "support": "Support",
                     "log out": "Log out",
+                    "Explore Kyrgyzstan: Embark on an Unforgettable Journey Through Majestic Mountains, Rich Cultures, and Breathtaking Landscapes": "Explore Kyrgyzstan: Embark on an Unforgettable Journey Through Majestic Mountains, Rich Cultures, and Breathtaking Landscapes",
+                    "Where to go": "Where to go",
+                    "When": "When",
+                    "Search places or activity": "Search places or activity"
                 }
             },
             ru: {
@@ -40,6 +45,11 @@ i18n
                     "wishlists": "Список желаемого",
                     "support": "Поддержка",
                     "log out": "Выйти",
+                    "Travel around Kyrgyzstan": "Путешествуйте по Кыргызстану",
+                    "Explore Kyrgyzstan: Embark on an Unforgettable Journey Through Majestic Mountains, Rich Cultures, and Breathtaking Landscapes": "Исследуйте Кыргызстан: отправляйтесь в незабываемое путешествие по величественным горам, богатой культуре и захватывающим дух пейзажам",
+                    "Where to go": "Куда пойти",
+                    "When": "Когда",
+                    "Поиск мест или занятий": "Поиск мест или занятий"
                 }
             },
             kg: {
@@ -53,6 +63,10 @@ i18n
                     "wishlists": "Тилектер тизмеги",
                     "support": "Колдоо",
                     "log out": "Чыгуу",
+                    "Explore Kyrgyzstan: Embark on an Unforgettable Journey Through Majestic Mountains, Rich Cultures, and Breathtaking Landscapes": "Кыргызстанды изилдеңиз: Улуу тоолор, бай маданияттар жана укмуштуудай пейзаждар аркылуу унутулгус саякатка барыңыз",
+                    "Where to go": "Кайда баруу керек",
+                    "When": "Качан",
+                    "Search places or activity": "Жерлерди же аракетти издөө"
                 }
             }
         }

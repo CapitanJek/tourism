@@ -3,10 +3,14 @@
   "profile": "Profile",
   "wishlists": "Wishlists",
   "support": "Support",
-  "logout": "Log out",
-  "Hello world": "Hello world",
+  "log out": "Log out",
   "Booking": "Booking",
-  "Tour list": "Tour list",
+  "TourList": "Tour list",
   "Account": "Account",
-  "Aboutus": "Aboutus"
+  "About": "About Us",
+  "Travel around Kyrgyzstan": "Travel around Kyrgyzstan",
+  "Explore Kyrgyzstan: Embark on an Unforgettable Journey Through Majestic Mountains, Rich Cultures, and Breathtaking Landscapes": "Explore Kyrgyzstan: Embark on an Unforgettable Journey Through Majestic Mountains, Rich Cultures, and Breathtaking Landscapes",
+  "Where to go": "Where to go",
+  "When": "When",
+  "Search places or activity": "Search places or activity"
 }
